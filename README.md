@@ -83,8 +83,7 @@ Feel free to open issues or discussions.
 ---
 
 ## Draft Nodes
-- [Japan: Regional Distribution and Decentralized Governance (Draft)](docs/14_Japan_Regional_Distribution.md)
-- Energy as Living Infrastructure (Draft)
-
-
+- [Energy as Living Infrastructure (Draft)](docs/Draft_Energy_as_Living_Infrastructure.md)
+- [Making the World Feel Local (Draft)](docs/Draft_Making_the_World_Local.md)
+- [Japan and the World Connected by Placement (Draft)](docs/Draft_Japan_and_the_World_as_Placement.md)
 
