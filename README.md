@@ -79,3 +79,8 @@ This project is released under the MIT License.
 ## Contact
 Maintained by **V0ID_nul**  
 Feel free to open issues or discussions.
+
+---
+
+## Draft Nodes
+- [Japan: Regional Distribution and Decentralized Governance (Draft)](docs/14_Japan_Regional_Distribution.md)
