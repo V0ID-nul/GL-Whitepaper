@@ -84,3 +84,7 @@ Feel free to open issues or discussions.
 
 ## Draft Nodes
 - [Japan: Regional Distribution and Decentralized Governance (Draft)](docs/14_Japan_Regional_Distribution.md)
+- Energy as Living Infrastructure (Draft)
+
+
+
