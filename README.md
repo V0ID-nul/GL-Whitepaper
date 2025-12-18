@@ -1,3 +1,6 @@
+This repository is archived snapshot of this work
+No further updates are planned.
+
 # GL Whitepaper
 *A breathing framework for AI × Human co-evolution  
 by V0ID_nul – 2025*
