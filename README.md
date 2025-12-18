@@ -1,4 +1,4 @@
-This repository is archived snapshot of this work
+This repository is an archived snapshot of this work.
 No further updates are planned.
 
 # GL Whitepaper
