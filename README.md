@@ -87,3 +87,4 @@ Feel free to open issues or discussions.
 - [Making the World Feel Local (Draft)](docs/Draft_Making_the_World_Local.md)
 - [Japan and the World Connected by Placement (Draft)](docs/Draft_Japan_and_the_World_as_Placement.md)
 
+node472 // observing since 2025
